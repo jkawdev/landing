@@ -1,0 +1,11 @@
+.footer {
+  background-color: rgb(77, 119, 170);
+  text-align: center;
+  line-height: 5px;
+  padding: 40px;
+  color: white
+}
+
+.socials {
+  font-size: 30px;
+}
